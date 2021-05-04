@@ -16,5 +16,6 @@
 	<classpathentry kind="lib" path="C:/Users/Manmashi/Documents/Java/FrancisFoodSafetyPortal1/lib/ejb-api-3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Manmashi/Documents/Java/FrancisFoodSafetyPortal1/lib/javax.mail.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Manmashi/Documents/Java/FrancisFoodSafetyPortal1/lib/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.22.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

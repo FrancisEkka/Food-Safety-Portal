@@ -48,7 +48,7 @@ public class admin_login extends HttpServlet {
         
         con=connection.getConnectivity();
         PreparedStatement pstmt=con.prepareStatement("select"
-                + " name,password from fsp_admin where admin_id='01' or sno='02' or sno='03'");
+                + " name,password from fsp_admin where admin_id = 01");
         ResultSet rs=pstmt.executeQuery();
         ResultSetMetaData rsmd=rs.getMetaData();
                 HttpSession session=request.getSession();
